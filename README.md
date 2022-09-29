@@ -3,12 +3,9 @@
  
  **Assuntos abordados neste curso**:
  1. Python Básico
- 1. Estrutura de dados
- 1. Introdução a Biblioteca Pandas
- 1. Trabalhando com arquivos em Excel
- 1. Trabalhando com Datas
- 1. Visualização de dados
- 1. Análise Exploratória de dados
-"# Cusro_Python_Pandas_Digital_Innovation-master" 
-# Cusro_Python_Pandas_Digital_Innovation-master
-# Cusro_Python_Pandas_Digital_Innovation-master
+ 2. Estrutura de dados
+ 3. Introdução a Biblioteca Pandas
+ 4. Trabalhando com arquivos em Excel
+ 5. Trabalhando com Datas
+ 6. Visualização de dados
+ 7. Análise Exploratória de dados
